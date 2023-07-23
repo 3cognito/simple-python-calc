@@ -6,14 +6,14 @@ This is a basic Python script that acts as a simple calculator. It allows the us
 
 1. Make sure you have Python installed on your system.
 
-2. Download the 'simple_calculator.py' file from this repository.
+2. Download the 'calculator.py' file from this repository.
 
-3. Open a terminal or command prompt and navigate to the directory where the 'simple_calculator.py' file is located.
+3. Open a terminal or command prompt and navigate to the directory where the 'calculator.py' file is located.
 
 4. Run the script by entering the following command:
 
    ```
-   python simple_calculator.py
+   python calculator.py
    ```
 
 5. The calculator will welcome you and ask you to enter two numbers and an arithmetic operator.
